@@ -25503,7 +25503,6 @@ im2954_11.jpg	GLASS
 im2954_12.jpg	OF
 im2954_13.jpg	THE
 im2954_14.jpg	FIRE
-im3200_0.jpg	HẠO
 im3201_0.jpg	BỘ
 im3201_1.jpg	VĂN
 im3201_2.jpg	HOÁ
